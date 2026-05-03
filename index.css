@@ -184,35 +184,11 @@
   .u-section-2 .u-sheet-1 {
     min-height: 645px;
   }
-
-  .u-section-2 .u-group-elements-1 {
-    height: auto;
-    margin-top: 81px;
-  }
-
-  .u-section-2 .u-group-elements-2 {
-    height: auto;
-    margin-top: -280px;
-  }
 }
 
 @media (max-width: 991px) {
   .u-section-2 .u-sheet-1 {
     min-height: 907px;
-  }
-
-  .u-section-2 .u-group-elements-1 {
-    margin-top: 627px;
-    margin-right: auto;
-  }
-
-  .u-section-2 .u-group-elements-2 {
-    margin-top: -569px;
-  }
-
-  .u-section-2 .u-group-elements-3 {
-    margin-top: -527px;
-    margin-left: auto;
   }
 }
 
@@ -225,21 +201,6 @@
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
     min-height: 895px;
-  }
-
-  .u-section-2 .u-group-elements-1 {
-    min-height: 273px;
-    margin-top: 573px;
-  }
-
-  .u-section-2 .u-group-elements-2 {
-    min-height: 231px;
-    margin-top: -541px;
-  }
-
-  .u-section-2 .u-group-elements-3 {
-    min-height: 231px;
-    margin-top: -500px;
   }
 }
 
