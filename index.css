@@ -316,6 +316,7 @@
   --animation-custom_in-scale: 0.3;
   transition-duration: 0.5s;
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px);
+  object-position: 100% 65.54%;
   margin: -147px auto 0 0;
 }
 
